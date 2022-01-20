@@ -3,7 +3,7 @@
 
 
 # Hi there 👋
-My name is Bree Browder(she/her). I am currently studying full stack web development at Holberton School Tulsa. I have tons to learn over the next several years and I am so excited to be in tech. Though full stack, I favor mostly front-end development during this season of my life and have plans to continue cultivating my knowledge of back-end API's, databases, etc in the future.
+My name is Bree Browder. I am currently studying full stack web development at Holberton School Tulsa. The next several years will prove to be a very developmental time for me as an engineer, and I am so excited to be in the tech space. Though full stack, I favor mostly front-end development during this season of my life and have plans to continue cultivating my knowledge of back-end API's, databases, etc in the future.
 
 I am a die hard ambivert. I am neither only an introvert or only an extrovert. Though, the people closest to me might suggest otherwise. I honor and value the relationships I have with the people I love.
 
