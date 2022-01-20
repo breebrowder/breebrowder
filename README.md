@@ -28,4 +28,7 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=breebrowder&show_icons=true&theme=cobalt" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=breebrowder&show_icons=true&theme=cobalt" />
+
+
+###### Github Stats coutesy of https://github.com/anuraghazra/
