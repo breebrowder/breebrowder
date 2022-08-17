@@ -1,5 +1,5 @@
 
-![Bree Browder (4)](https://user-images.githubusercontent.com/58611397/150261822-b5d070ac-1142-401d-be3d-ed6de105ba5d.png)
+![Bree Browder (4)](https://github.com/breebrowder/breebrowder/blob/main/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.png)
 
 
 # Hi there 👋
