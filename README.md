@@ -3,11 +3,7 @@
 
 
 # Hi there 👋
-My name is Bree Browder. I am currently studying full stack web development at Holberton School Tulsa. I am exploring my niche and preparing to enter the workforce late this year.
-
-I am a die hard ambivert. I am neither only an introvert or only an extrovert. I am creative, and I enjoy reading or watching videos related to one's sense of self and personal development.
-
-While continuing to learn and later pursue a career in technology, I document blog posts about new things I learn occasionally. Check them out below!
+I am a Full-Stack Software Engineer by trade, with a special kind of love for Front-End Web Development in tandem with UI/UX design. I care about making technology aesthetically pleasing, simple to use, and accessible to as many groups as possible.
 
 # 📝 Latest Blog Posts
 These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>.
@@ -24,7 +20,7 @@ These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>
 
 
 # 📫 How to reach me
-🔗 I have a personal website at https://breebrowder.github.io where all of my contact information is located.
+🔗 I have a personal website at www.breebrowder.com where all of my contact information is located.
 
 
 
