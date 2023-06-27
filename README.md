@@ -3,7 +3,7 @@
 
 
 # Hi there 👋
-I am a Full-Stack Software Engineer by trade, with a special kind of love for Front-End Web Development, in tandem with UI/UX design. I care about making technology aesthetically pleasing, simple to use, and accessible to as many groups as possible.
+I am a Full-Stack Software Engineer by trade. Designing and developing on the front-end, bearing human-centered design principles is how I got my start in technology. These things utilize my thirst for creativity and advocacy. Because this foundation fits the scope of many roles, it makes me pliable, endlessly seeking to please the end user!
 
 # 📝 Latest Blog Posts
 These are my latest blog posts hosted on <a href="https://medium.com">Medium</a>.
