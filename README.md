@@ -3,7 +3,7 @@
 
 
 # Hi there 👋
-I am a Full-Stack Software Engineer by trade. Designing and developing on the front-end, bearing human-centered design principles is how I got my start in technology. These things utilize my thirst for creativity and advocacy. Because this foundation fits the scope of many roles, it makes me pliable, endlessly seeking to please the end user!
+I am a Full-Stack Software Engineer by trade. Designing and developing on the front-end, bearing human-centered design principles is how I got my start in technology. This foundation makes me pliable, endlessly seeking to please the end user!
 
 # 📝 <a href="https://medium.com/@breebrowder">Latest Blog Posts</a>
 My blog posts are hosted on the Medium platform, linked above.
